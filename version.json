@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "url": "https://toobad269.github.io/emeraid-download/",
-  "notes": "Sicherheits-Härtung, Keychain, Papierkorb, Volltext-Suche, native Menüleiste, Update-Hinweis u. v. m."
+  "notes": "Backlinks, [[ ]]-Autovervollständigung, semantische Vault-Suche (RAG), Vorlagen und anklickbare Aufgaben-Checkboxen."
 }
